@@ -1,6 +1,6 @@
 # Welcome to World of Data
 
-Ishwar Kapoor – Materials & Machine Learning Scientist
+Ishwar Kapoor – Applied Data Scientist & Academic of Materials for Engineering
 
 Drop a message to connect!
 
