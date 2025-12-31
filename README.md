@@ -1,5 +1,4 @@
-# Welcome to World of Data
-
+Welcome to World of Data
 Ishwar Kapoor – Applied Data Scientist & Academic of Materials for Engineering
 
 Drop a message to connect!
