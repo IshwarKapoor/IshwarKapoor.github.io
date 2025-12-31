@@ -2,7 +2,11 @@ title: Ishwar Kapoor
 theme: minima
 
 nav:
-  - title: Home
+  - title: Introduction
     url: /
   - title: Projects
     url: /projects/
+  - title: Blog
+    url: /blog/
+  - title: CV
+    url: /cv/
