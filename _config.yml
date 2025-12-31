@@ -1,8 +1,13 @@
 title: Ishwar Kapoor
 theme: minima
 
+# Top navigation tabs (order matters)
 nav:
-  - title: Introduction
+  - title: Intro
     url: /
   - title: Projects
     url: /projects/
+  - title: Blog
+    url: /blog/
+  - title: CV
+    url: /cv/
