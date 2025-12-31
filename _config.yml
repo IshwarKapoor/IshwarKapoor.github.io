@@ -1,2 +1,8 @@
 title: Ishwar Kapoor
 theme: jekyll-theme-minimal
+
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
