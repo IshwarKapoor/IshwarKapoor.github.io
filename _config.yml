@@ -1,2 +1,9 @@
 title: Ishwar Kapoor
 theme: minima
+
+nav:
+  - title: Intro
+    url: /
+  - title: Blog
+    url: /blog/
+    
