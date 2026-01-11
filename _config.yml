@@ -10,3 +10,6 @@ nav:
     url: /blog/
 
 google_verification: "googlec1ec095a28697887"
+
+plugins:
+  - jekyll-sitemap
