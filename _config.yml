@@ -4,6 +4,7 @@ theme: minima
 nav:
   - title: Intro
     url: /
+  - title: Projects
+    url: /projects/
   - title: Blog
     url: /blog/
-    
