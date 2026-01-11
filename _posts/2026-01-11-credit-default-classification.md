@@ -64,4 +64,4 @@ You can find the full Python implementation, including the synthetic data genera
 
 If you’re interested in Machine Learning, let’s connect! I’m always open to discussing model optimization and data strategy.
 
-**Drop me a DM on to my LinkedIn page, https://www.linkedin.com/in/ishwar-kapoor/**
+**Drop me a DM on to my [LinkedIn](https://www.linkedin.com/in/ishwar-kapoor)**
